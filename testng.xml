@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="testcase.homepage.TestCase001GetHomeList"/>
+      <class name="testcase.me.setting.TestCase005UpdataMyUsePushImgSwitch"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase006DeleteCsAlarmSet"/>
+      <class name="testcase.me.setting.TestCase001GetMyUserConfig"/>
+      <class name="testcase.me.TestCase004UsernameUpdate"/>
+      <class name="testcase.me.setting.TestCase002UpdataMyUserVoiceSwitch"/>
+      <class name="testcase.me.setting.TestCase004UpdataMyUserAlarmSwitch"/>
+      <class name="testcase.homepage.TestCase002GetSystemList"/>
+      <class name="testcase.me.TestCase005NicknameUpdate"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase008GetMyPayList"/>
+      <class name="testcase.me.TestCase003UserIconUpdate"/>
+      <class name="testcase.homepage.TestCase005DeleteAlarm"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase004CreatCsAlarmSet"/>
+      <class name="testcase.me.TestCase001GetMyUser"/>
+      <class name="testcase.homepage.TestCase003GetPayList"/>
+      <class name="testcase.loginAuthentication.TestCase001GetKaptche"/>
+      <class name="testcase.me.setting.TestCase003UpdataMyUserShakeSwitch"/>
+      <class name="testcase.me.TestCase008QaFeedback"/>
+      <class name="testcase.homepage.TestCase006DelAllAlarm"/>
+      <class name="testcase.loginAuthentication.TestCase004RefrehToken"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase001GetCsResidueDegree"/>
+      <class name="testcase.homepage.TestCase004GetAlarmList"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase005UpdateCsAlarmSet"/>
+      <class name="testcase.me.TestCase007SexUpdate"/>
+      <class name="testcase.loginAuthentication.TestCase002GetSms"/>
+      <class name="testcase.me.TestCase006CityNameUpdate"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase002GetCsAlarmSetList"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase003GetAlarmTypes"/>
+      <class name="testcase.me.setting.TestCase006UpdataMyUsePushVideoSwitch"/>
+      <class name="testcase.loginAuthentication.TestCase003Login"/>
+      <class name="testcase.me.callAndSmsAlarm.TestCase007BindCsAlarmAndImeis"/>
+      <class name="testcase.me.TestCase002OauthTokenQiniu"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
